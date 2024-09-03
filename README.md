@@ -9,3 +9,6 @@ https://www.advancedpcb.com/en-us/tools/trace-width-calculator/
 Sch and PCb libraries
 https://www.ultralibrarian.com/
 https://www.snapeda.com/
+
+Current sensor
+http://www.handsontec.com/dataspecs/ACS712-Current%20Sensor.pdf
