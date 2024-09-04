@@ -33,3 +33,4 @@ Samples projects
 5.https://github.com/galpavlin/BESC
 6.https://github.com/gpxlBen/VESC_Logger
 7.https://github.com/mahi97/MircroProject/tree/master [serial pcb]
+8.https://github.com/pgrady3/EasyController2 [Arduino MCU]
