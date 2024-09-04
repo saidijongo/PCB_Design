@@ -31,4 +31,4 @@ Samples projects
 3.https://github.com/bigeyao/Motor_Driver_Project/tree/main
 4.https://e.pavlin.si/wp-content/uploads/2018/11/besc-proj.pdf
 5.https://github.com/galpavlin/BESC
-6.
+6.https://github.com/gpxlBen/VESC_Logger
