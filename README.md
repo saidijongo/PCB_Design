@@ -30,4 +30,5 @@ Samples projects
 2.https://github.com/TerraSentia/ES-ESC-HW/tree/master
 3.https://github.com/bigeyao/Motor_Driver_Project/tree/main
 4.https://e.pavlin.si/wp-content/uploads/2018/11/besc-proj.pdf
-5.
+5.https://github.com/galpavlin/BESC
+6.
