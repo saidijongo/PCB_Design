@@ -34,3 +34,5 @@ Samples projects
 6.https://github.com/gpxlBen/VESC_Logger
 7.https://github.com/mahi97/MircroProject/tree/master [serial pcb]
 8.https://github.com/pgrady3/EasyController2 [Arduino MCU]
+9.https://github.com/Twisted-Fields/rp2040-motor-controller [RP2040]
+10.
