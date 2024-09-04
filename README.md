@@ -21,3 +21,9 @@ https://www.digikey.kr/en/products/detail/richtek-usa-inc/RT1720GF/6002895
 
 Power reverse bias protection
 https://components101.com/articles/design-guide-pmos-mosfet-for-reverse-voltage-polarity-protection
+
+Samples projects
+1.https://github.com/sinaaghli/Ninja_PCB_3.2/tree/master
+2.https://github.com/TerraSentia/ES-ESC-HW/tree/master
+3.https://github.com/bigeyao/Motor_Driver_Project/tree/main
+4.
