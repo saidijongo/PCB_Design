@@ -25,7 +25,7 @@ https://components101.com/articles/design-guide-pmos-mosfet-for-reverse-voltage-
 Ebike controller/how to
 https://resources.altium.com/p/build-advanced-brushless-motor-controller
 
-Samples projects
+Samples PCB projects
 1.https://github.com/sinaaghli/Ninja_PCB_3.2/tree/master
 2.https://github.com/TerraSentia/ES-ESC-HW/tree/master
 3.https://github.com/bigeyao/Motor_Driver_Project/tree/main
@@ -36,3 +36,7 @@ Samples projects
 8.https://github.com/pgrady3/EasyController2 [Arduino MCU]
 9.https://github.com/Twisted-Fields/rp2040-motor-controller [RP2040]
 10.
+
+Code samples
+1.https://github.com/OpenSourceEBike/TSDZ2-Smart-EBike
+2.https://github.com/OpenSourceEBike/TongSheng_TSDZ2_motor_controller_firmware
