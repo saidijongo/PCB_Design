@@ -40,3 +40,6 @@ Samples PCB projects
 Code samples
 1.https://github.com/OpenSourceEBike/TSDZ2-Smart-EBike
 2.https://github.com/OpenSourceEBike/TongSheng_TSDZ2_motor_controller_firmware
+
+dt98-2_mosfet_gate_driver
+https://www.irf.com/technical-info/designtp/dt98-2.pdf
