@@ -9,6 +9,7 @@ https://www.advancedpcb.com/en-us/tools/trace-width-calculator/
 Sch and PCb libraries
 https://www.ultralibrarian.com/
 https://www.snapeda.com/
+https://grabcad.com/library
 
 https://github.com/jkirsons/stealth-controller
 
