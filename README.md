@@ -10,6 +10,8 @@ Sch and PCb libraries
 https://www.ultralibrarian.com/
 https://www.snapeda.com/
 https://grabcad.com/library
+https://www.samacsys.com/tag/component-libraries/
+https://componentsearchengine.com/
 
 https://github.com/jkirsons/stealth-controller
 
