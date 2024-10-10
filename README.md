@@ -13,6 +13,9 @@ https://grabcad.com/library
 https://www.samacsys.com/tag/component-libraries/
 https://componentsearchengine.com/
 
+PCB tutorial
+https://www.scs.stanford.edu/~zyedidia/docs/pcb/pcb_tutorial.pdf
+
 https://github.com/jkirsons/stealth-controller
 
 Current sensor
