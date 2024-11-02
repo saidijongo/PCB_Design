@@ -51,3 +51,5 @@ dt98-2_mosfet_gate_driver
 https://www.irf.com/technical-info/designtp/dt98-2.pdf
 
 https://github.com/bodri/kapuki-cursen-hw [current sense MAX]
+ KiCAD
+https://vedder.se/
