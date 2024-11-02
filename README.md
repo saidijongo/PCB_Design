@@ -53,3 +53,4 @@ https://www.irf.com/technical-info/designtp/dt98-2.pdf
 https://github.com/bodri/kapuki-cursen-hw [current sense MAX]
  KiCAD
 https://vedder.se/
+https://www.ti.com/lit/ug/slvucl3/slvucl3.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1730534125319&ref_url=https%253A%252F%252Fwww.mouser.kr%252F [DRV8317HEVM ]
