@@ -54,3 +54,6 @@ https://github.com/bodri/kapuki-cursen-hw [current sense MAX]
  KiCAD
 https://vedder.se/
 https://www.ti.com/lit/ug/slvucl3/slvucl3.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1730534125319&ref_url=https%253A%252F%252Fwww.mouser.kr%252F [DRV8317HEVM ]
+
+Buck 48V to 12V
+https://e2e.ti.com/support/power-management-group/power-management/f/power-management-forum/1385171/lm76005-can-output-of-second-cascaded-buck-converter-be-used-for-external-bias-of-first-buck
