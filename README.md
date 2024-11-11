@@ -8,9 +8,14 @@ https://www.advancedpcb.com/en-us/tools/trace-width-calculator/
 
 Sch and PCb libraries
 https://www.ultralibrarian.com/
+
 https://www.snapeda.com/
+https://www.snapeda.com/
+
 https://grabcad.com/library
+
 https://www.samacsys.com/tag/component-libraries/
+
 https://componentsearchengine.com/
 
 PCB tutorial
