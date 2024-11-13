@@ -6,6 +6,8 @@ https://www.farnell.com/datasheets/2243456.pdf
 Trace width calc
 https://www.advancedpcb.com/en-us/tools/trace-width-calculator/
 
+https://www.emisoftware.com/calculator/microstrip-capacitance/
+
 Sch and PCb libraries
 https://www.ultralibrarian.com/
 
