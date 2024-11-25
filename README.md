@@ -67,3 +67,6 @@ https://e2e.ti.com/support/power-management-group/power-management/f/power-manag
 
 400A
 https://github.com/galpavlin/BESC-G2
+
+![image](https://github.com/user-attachments/assets/8063ee26-1615-4930-b172-b120a807b194)
+
