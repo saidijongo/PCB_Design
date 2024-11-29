@@ -1,4 +1,5 @@
 # PCB_Design
+
 Control system
  Relay IC
 https://www.farnell.com/datasheets/2243456.pdf
@@ -10,6 +11,7 @@ https://www.emisoftware.com/calculator/microstrip-capacitance/
 
 Sch and PCb libraries
 https://www.ultralibrarian.com/
+
 
 https://www.snapeda.com/
 https://www.snapeda.com/
@@ -67,6 +69,7 @@ https://e2e.ti.com/support/power-management-group/power-management/f/power-manag
 
 400A
 https://github.com/galpavlin/BESC-G2
+
 
 ![image](https://github.com/user-attachments/assets/8063ee26-1615-4930-b172-b120a807b194)
 
