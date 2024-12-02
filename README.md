@@ -73,6 +73,8 @@ https://github.com/galpavlin/BESC-G2
 Flyback transformer
 https://e2e.ti.com/support/power-management-group/power-management/f/power-management-forum/1346328/webench-power-designer-flyback-transformer-turns-calculation-seems-not-to-match-datasheet-formulas
 
+https://www.hackatronic.com/12v-10a-smps-switched-mode-power-supply-circuit-ic-dm0565/
+
 https://resources.altium.com/p/flyback-converter-module-pcb-design-project
 
 
