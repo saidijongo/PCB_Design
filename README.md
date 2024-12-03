@@ -77,6 +77,9 @@ https://www.hackatronic.com/12v-10a-smps-switched-mode-power-supply-circuit-ic-d
 
 https://resources.altium.com/p/flyback-converter-module-pcb-design-project
 
+AC MOTOR/ ARDUINO
+https://electronics.stackexchange.com/questions/597202/mosfet-burns-220v-inverter-for-induction-motor-speed-control-using-arduino
+
 
 ![image](https://github.com/user-attachments/assets/8063ee26-1615-4930-b172-b120a807b194)
 
