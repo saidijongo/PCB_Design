@@ -84,4 +84,7 @@ https://electronics.stackexchange.com/questions/597202/mosfet-burns-220v-inverte
 ![image](https://github.com/user-attachments/assets/8063ee26-1615-4930-b172-b120a807b194)
 ![image](https://github.com/user-attachments/assets/2c499816-2217-450b-9c6f-e63ceb7d1ebe)
 
+![image](https://github.com/user-attachments/assets/f1c4b518-f1d0-4bf9-9fc4-44bee7b9a64a)
+
+
 
